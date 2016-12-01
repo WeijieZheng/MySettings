@@ -1,0 +1,2 @@
+# MySettings
+Personal software settings
